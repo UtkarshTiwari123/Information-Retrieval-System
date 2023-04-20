@@ -63,9 +63,9 @@ Before running the code , you need to install the following python libraries:
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-2. Install Python packages
+2. Install Python packages (Checkout the Prerequisites)
    ```sh
-   npm install
+   pip install <Package-name>
    ```
 3. Run the main file using the command 
     ```sh
@@ -79,7 +79,8 @@ Before running the code , you need to install the following python libraries:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After installing all the packages successfuly and runing the python file, you will have to choose if you want to exit or enter text or a phrase or a wildcard query
+After installing all the packages successfuly and runing the python file, you will have to choose if you want to exit or enter text or a phrase or a wildcard query.
+
 ![image](https://user-images.githubusercontent.com/65806756/233291528-d6188712-c1a7-4c7a-90f3-312f500d18e4.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -91,6 +92,7 @@ After installing all the packages successfuly and runing the python file, you wi
 
 - [ ] Stopword Removal
 - [ ] Stemming
+- [ ] Return all the paragraphs which contain the phrase or text along with the file name
 - [ ] Wildcard Query Handling
 - [ ] Spelling Correction
 
